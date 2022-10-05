@@ -23,8 +23,8 @@ body {
   }
 
   .light-mode {
-    background-color: rgb(255, 255, 255);
-    color: rgb(1, 1, 1);
+    background-color: white;
+    color: rgb(44, 44, 44);
   }
 
   button {
